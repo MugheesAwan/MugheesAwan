@@ -26,6 +26,7 @@
  ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Materializen&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=1572B6&logo=Figma&logoColor=FFFFFF&label=)
 
 - Version Control and Tools:
   - ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
