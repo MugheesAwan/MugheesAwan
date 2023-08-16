@@ -4,8 +4,8 @@
 <h2> Hey there! I'm Mughees Awan</h2>
 
 <h3>About Me </h3>
-- I’m interested in Web development and Mobile Application Development.
-- Studied Software Engineering at National University of Science and Technology.
+- I’m interested in Web development and Mobile Application Development.  
+- Studied Software Engineering at National University of Science and Technology.  
 - Working as a Frontend Developer.
 
 
