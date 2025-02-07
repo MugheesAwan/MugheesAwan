@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mughees-awan-364445207/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Mughees+Awan&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="></a>
-  <a href="mailto:mugheesawan797@gmail.com@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=mugheesawan797@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
+  <a href="mailto:mugheesawan797@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=mugheesawan797@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="></a>
   
 </p>
 
